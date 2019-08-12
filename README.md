@@ -25,4 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Installing Bootstra 3
+Bootstrap, as you might know, is an open source toolkit for building very powerful, responsive and dynamic mobile-first user interfaces. It uses jquery (and popper sometimes) as a dependency. We can easily install bootstrap 4 on our angular project with one NPM command in our terminal.
+
+In your terminal in the root of your project `npm install bootstrap jquery popper`
+
 # Front-end-Spring-Angular-JWT
