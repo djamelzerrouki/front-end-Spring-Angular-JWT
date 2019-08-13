@@ -26,3 +26,19 @@
   <h3>Right Aligned Navbar</h3>
   <p>The .navbar-right class is used to right-align navigation bar buttons.</p>
 </div>
+
+<div class="container">
+<div class="col-md-4">
+<ul class="list-group" *ngIf="categories">
+<li class="list-group-item" *ngFor="let c of categories._embedded.categories" >
+  {{c.name}}
+</li>
+</ul>
+</div>
+  <div class="col-md-9">
+
+  </div>
+  <router-outlet>
+
+  </router-outlet>
+</div>
