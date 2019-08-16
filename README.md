@@ -1,4 +1,4 @@
-# Myproject
+# Front-end-Spring-Angular-JWT
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
 
@@ -32,4 +32,3 @@ Bootstrap, as you might know, is an open source toolkit for building very powerf
 
 In your terminal in the root of your project `npm install bootstrap jquery popper`
 
-# Front-end-Spring-Angular-JWT
